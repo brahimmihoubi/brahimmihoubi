@@ -46,13 +46,13 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/brahim mihoubbi" target="blank">
+<a href="https://www.linkedin.com/in/brahim-mihoubi-424922329?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="https://instagram.com/brahim_mihoubi" target="blank">
+<a href="https://www.instagram.com/brahim_mihoubi?igsh=dWxuMHU0a2RpcWw2" target="blank">
 <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
-<a href="https://fb.com/brahim mihoubi" target="blank">
+<a href="https://www.facebook.com/brahim.mihoubi.9022" target="blank">
 <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
 </a>
 </p>
