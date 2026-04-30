@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mihoubi Brahim</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=700&height=80&size=28&duration=1500&pause=800&lines=Fullstack+Developer;Flutter;React;Django;FastAPI" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=700&height=80&size=28&duration=3000&pause=1200&lines=Fullstack+Developer;Flutter;React;Django;FastAPI" />
 </h3>
 
 ---
