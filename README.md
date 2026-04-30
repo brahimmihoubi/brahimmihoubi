@@ -1,49 +1,49 @@
-<h1 align="center">Hi 👋, I'm Mihoubi Brahim</h1>
+<h1 align="center">Hi, I'm Mihoubi Brahim</h1>
 <h3 align="center">Fullstack Developer | Flutter • React • Django • FastAPI</h3>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔭 Currently building **ERP & CRM Systems**
-- 🧠 Focused on **scalable fullstack systems**
-- ⚙️ Backend: **Django, FastAPI**
-- 🎨 Frontend: **React, TypeScript**
-- 📱 Mobile: **Flutter (Dart)**
-- 💬 Ask me about **Flutter, APIs, Linux, system design**
-- 📫 Reach me: **bmihoubi335@gmail.com**
+- Currently building **ERP & CRM Systems**
+- Focused on **scalable fullstack systems**
+- Backend: **Django, FastAPI**
+- Frontend: **React, TypeScript**
+- Mobile: **Flutter (Dart)**
+- Ask me about **Flutter, APIs, Linux, system design**
+- Reach me: **bmihoubi335@gmail.com**
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 
-### 🖥️ Frontend
+### Frontend
 - React
 - TypeScript
 - HTML / CSS
 
-### ⚙️ Backend
+### Backend
 - Django
 - FastAPI
 - Node.js (basic)
 
-### 📱 Mobile
+### Mobile
 - Flutter
 - Dart
 
-### 🗄️ Database
+### Database
 - PostgreSQL
 - MongoDB
 - SQLite
 
-### 🛠️ Tools & DevOps
+### Tools & DevOps
 - Git / GitHub
 - Linux
 - Docker (learning)
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/brahim-mihoubi-424922329?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank">
@@ -59,7 +59,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brahimmihoubi&show_icons=true&theme=tokyonight" />
@@ -75,17 +75,17 @@
 
 ---
 
-## ⚡ What I Actually Do
+## What I Actually Do
 
-- Build **clean architecture apps** (mobile + web)
-- Design and consume **REST APIs**
-- Work with **state management (Riverpod, etc.)**
+- Build clean architecture apps (mobile + web)
+- Design and consume REST APIs
+- Work with state management (Riverpod, etc.)
 - Turn UI/UX (Figma) into real products
 - Ship projects, not just tutorials
 
 ---
 
-## 🧠 Current Focus
+## Current Focus
 
 - Advanced backend architecture (FastAPI + Django)
 - Fullstack integration (React ↔ APIs)
@@ -93,4 +93,4 @@
 
 ---
 
-⭐️ *Always building, always learning.*
+Always building, always learning.
