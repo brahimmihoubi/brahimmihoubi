@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Mihoubi Brahim</h1>
-<h3 align="center">Fullstack Developer | Flutter • React • Django • FastAPI</h3>
-
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Fullstack+Developer;Flutter+%7C+React+%7C+Django+%7C+FastAPI" />
+</h3>
 ---
 
 ## About Me
