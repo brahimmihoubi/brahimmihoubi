@@ -55,7 +55,7 @@
 <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 <a href="https://www.facebook.com/brahim.mihoubi.9022" target="blank">
-<img src="https://skillicons.dev/icons?i=facebook" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40"/>
 </a>
 </p>
 
