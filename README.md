@@ -64,7 +64,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brahimmihoubi&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=brahimmihoubi&show_icons=true&theme=tokyonight&count_private=true&bg_color=131320&hide_border=true" />
 </p>
 
 <p align="center">
